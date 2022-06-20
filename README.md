@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:work: At the moment I'm a tester at https://bimlib.pro.
+:man_office_worker: At the moment I'm a tester at https://bimlib.pro.
 
 :books: I'm learning automated testing.
 
