@@ -1,6 +1,8 @@
-### Привет, меня зовут Евгений Мартюхин👋
-#### Я мануальный тестировщик развивающийся в автоматизатора
+### Hi there 👋
 
+At the moment I'm a tester at https://bimlib.pro.
+
+:books: I'm learning automated testing.
 
 <!--
 **ZhenyaMart/ZhenyaMart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
