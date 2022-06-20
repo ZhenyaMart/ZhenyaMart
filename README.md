@@ -5,8 +5,6 @@ I also worked as a lead technical support engineer, system administrator and inf
 
 
 :books: I'm learning automated testing.
-I also worked as a lead technical support engineer, system administrator and information security specialist.
-
 
 <!--
 **ZhenyaMart/ZhenyaMart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
